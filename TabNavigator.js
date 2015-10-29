@@ -179,3 +179,4 @@ let styles = StyleSheet.create({
 });
 
 TabNavigator.Item = TabNavigatorItem;
+TabNavigator.Badge = Badge;
